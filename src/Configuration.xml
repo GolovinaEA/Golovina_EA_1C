@@ -250,6 +250,28 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Закупки</Subsystem>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Склад</Subsystem>
+			<Subsystem>ВзаимозачетыИАналитика</Subsystem>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>ВидыНоменклатуры</Catalog>
+			<Catalog>ЕдиницыИзмерения</Catalog>
+			<Catalog>Производители</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>КорпусаИПомещения</Catalog>
+			<Catalog>Договоры</Catalog>
+			<Catalog>БанковскиеСчета</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>Сотрудники</Catalog>
+			<Catalog>Подразделения</Catalog>
+			<Catalog>Должности</Catalog>
+			<Catalog>ПричиныСписания</Catalog>
+			<Catalog>КонтактныеЛица</Catalog>
+			<Catalog>СтатьиРасходов</Catalog>
+			<Enum>СтавкиНДС</Enum>
+			<Enum>ТипыКонтрагентов</Enum>
+			<Enum>ВидыЦен</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

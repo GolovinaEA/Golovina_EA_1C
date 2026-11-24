@@ -1,7 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Configuration.ГоловинаЕА_70194059" id="aa19d1a1-1061-496a-8430-0939cc14b663" configVersion="056f5a1ff2e15e4da95e3976ebb1c7db00000000"/>
+		<Metadata name="Catalog.БанковскиеСчета" id="0d260492-1f7a-45c8-b248-0b3dcc5b4873" configVersion="d98447dc003796478b7adbd3e1cc9adf00000000"/>
+		<Metadata name="Catalog.ВидыНоменклатуры" id="39e14eff-ec5a-4214-9662-aa62c277d002" configVersion="8641b7c7d804954094440f873cdc78ba00000000"/>
+		<Metadata name="Catalog.Договоры" id="8c3c48ac-c257-4a06-b9a4-b182204c106e" configVersion="d5b5adec40e6694c975bfae6e34a294b00000000"/>
+		<Metadata name="Catalog.Должности" id="804f9879-af00-4996-aa4d-c6d0a4d7e861" configVersion="d1b58ecd37211a4c821e48f40cbf132600000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="7737aacc-81a3-4578-b1bd-c151d23ee968" configVersion="33c25d60d26ced41bf4ba186f7a514de00000000"/>
+		<Metadata name="Catalog.КонтактныеЛица" id="02009951-7eb6-4687-95e5-17ddc57dc027" configVersion="34dc34da3963074abf3202182cb8025b00000000"/>
+		<Metadata name="Catalog.Контрагенты" id="624999ac-5381-4cbf-a827-a2990e6785f9" configVersion="5a252a6eb9af9a46a92446686d4d4bd000000000"/>
+		<Metadata name="Catalog.КорпусаИПомещения" id="247d69cb-af75-42a7-9de6-370741d81b05" configVersion="f332510bb49c654186bb92eb864f63a700000000"/>
+		<Metadata name="Catalog.Номенклатура" id="69327568-55e5-4a0d-ac43-ff85df646bd9" configVersion="a41ec7effee1514abc3c2fb4567d481200000000"/>
+		<Metadata name="Catalog.Подразделения" id="2f79f1c6-9a2a-420a-a3fe-fe50c3bc484d" configVersion="20b4834f310b5f49809df47ccfaedda400000000"/>
+		<Metadata name="Catalog.ПричиныСписания" id="6004cc91-4a64-42eb-86ff-cb2682bb0146" configVersion="a97dc14ef11ab946a80fe02224ec796600000000"/>
+		<Metadata name="Catalog.Производители" id="473590c8-0b30-473e-8602-6ddab0a77249" configVersion="0a984ad57238eb4e87b5f7d987baa5ea00000000"/>
+		<Metadata name="Catalog.Склады" id="21128980-a1db-4e63-b28d-e9f14a4e5394" configVersion="5f2ca60617f79e4193919fad31e815ad00000000"/>
+		<Metadata name="Catalog.Сотрудники" id="92e7cff6-ca3e-4121-85df-f9d931d782a2" configVersion="d7f9cdda22a2574e8338d947f040e0e900000000"/>
+		<Metadata name="Catalog.СтатьиРасходов" id="260ae481-932e-4a7b-868a-b2d7c7b1b78a" configVersion="a1527aaa72f32a4785ac68c7e1a21cc800000000"/>
+		<Metadata name="Configuration.ГоловинаЕА_70194059" id="aa19d1a1-1061-496a-8430-0939cc14b663" configVersion="c38ba8099757c9418ea0812e12f11d0200000000"/>
+		<Metadata name="Enum.ВидыЦен" id="1a42c6c5-ec53-4695-b09b-ab3b6f49176a" configVersion="12656ee5d53a8345ae732f662f55506c00000000"/>
+		<Metadata name="Enum.СтавкиНДС" id="effc01ef-ec6b-4b00-a7dd-e0ac2146214c" configVersion="d1a1ac615f411740be2166c0bda7735b00000000"/>
+		<Metadata name="Enum.ТипыКонтрагентов" id="04dd9093-49d4-4dd9-90dd-150dce771ec1" configVersion="68c3fc00f532664ebd24ae6aa8a66f5000000000"/>
 		<Metadata name="Language.Русский" id="1846f543-a329-4c12-ab6a-f1e5a22c44e4" configVersion="32b006dc9588f74b8dd4fbb60077373b00000000"/>
+		<Metadata name="Subsystem.ВзаимозачетыИАналитика" id="9ecc840a-d632-4c8f-8b9f-94e0db89d97e" configVersion="a69cd7ce728ca64fb324999a1eafb96300000000"/>
+		<Metadata name="Subsystem.Закупки" id="0b6547c1-0a6a-4c50-ab56-c9bfc401701e" configVersion="909fc52000587b42beda842c0a3c1c1a00000000"/>
+		<Metadata name="Subsystem.Продажи" id="75cb6c7a-9eec-4f46-9808-e0d5b95e8e12" configVersion="cf7351b25fa40a4eba21b2661086cfba00000000"/>
+		<Metadata name="Subsystem.Склад" id="1384ab25-53a4-40c7-b0ad-d293ae955eec" configVersion="1db0299bdfdbe749a39042ee20acc0d200000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
