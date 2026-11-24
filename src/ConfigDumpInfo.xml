@@ -16,12 +16,21 @@
 		<Metadata name="Catalog.Склады" id="21128980-a1db-4e63-b28d-e9f14a4e5394" configVersion="5f2ca60617f79e4193919fad31e815ad00000000"/>
 		<Metadata name="Catalog.Сотрудники" id="92e7cff6-ca3e-4121-85df-f9d931d782a2" configVersion="d7f9cdda22a2574e8338d947f040e0e900000000"/>
 		<Metadata name="Catalog.СтатьиРасходов" id="260ae481-932e-4a7b-868a-b2d7c7b1b78a" configVersion="a1527aaa72f32a4785ac68c7e1a21cc800000000"/>
-		<Metadata name="Configuration.ГоловинаЕА_70194059" id="aa19d1a1-1061-496a-8430-0939cc14b663" configVersion="c38ba8099757c9418ea0812e12f11d0200000000"/>
-		<Metadata name="Enum.ВидыЦен" id="1a42c6c5-ec53-4695-b09b-ab3b6f49176a" configVersion="12656ee5d53a8345ae732f662f55506c00000000"/>
+		<Metadata name="Configuration.ГоловинаЕА_70194059" id="aa19d1a1-1061-496a-8430-0939cc14b663" configVersion="706d9a2d0fded64e9e5ffe1066577eb800000000"/>
+		<Metadata name="Enum.ВидыЦен" id="1a42c6c5-ec53-4695-b09b-ab3b6f49176a" configVersion="3c6f882c980b0741ad0b6553466b113c00000000">
+			<Metadata name="Enum.ВидыЦен.EnumValue.Учетная" id="17b800cf-5dc0-4378-9f15-3eb8ceb88392"/>
+			<Metadata name="Enum.ВидыЦен.EnumValue.Отпускная" id="8b287991-5d07-42bc-950b-d6988b152ed2"/>
+			<Metadata name="Enum.ВидыЦен.EnumValue.Закупочная" id="cca6d4cc-8cf9-4dc0-aa65-5c85e5a31123"/>
+		</Metadata>
 		<Metadata name="Enum.СтавкиНДС" id="effc01ef-ec6b-4b00-a7dd-e0ac2146214c" configVersion="d1a1ac615f411740be2166c0bda7735b00000000"/>
 		<Metadata name="Enum.ТипыКонтрагентов" id="04dd9093-49d4-4dd9-90dd-150dce771ec1" configVersion="68c3fc00f532664ebd24ae6aa8a66f5000000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="1859341d-b24a-44f3-9483-2f3d6063b9e1" configVersion="9fe5ce79e6dc334aad1b0ffd6e1c3d7e00000000">
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="42797c21-e428-4f07-a069-f13d89984e83"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="7cfe18e4-07a9-48f6-b032-bda9d0ac888b"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="e1d54111-8beb-4644-bff4-22614901b6e8"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="1846f543-a329-4c12-ab6a-f1e5a22c44e4" configVersion="32b006dc9588f74b8dd4fbb60077373b00000000"/>
-		<Metadata name="Subsystem.ВзаимозачетыИАналитика" id="9ecc840a-d632-4c8f-8b9f-94e0db89d97e" configVersion="a69cd7ce728ca64fb324999a1eafb96300000000"/>
+		<Metadata name="Subsystem.ВзаимозачетыИАналитика" id="9ecc840a-d632-4c8f-8b9f-94e0db89d97e" configVersion="6d5e800248b5d8448c1f053557468c5200000000"/>
 		<Metadata name="Subsystem.Закупки" id="0b6547c1-0a6a-4c50-ab56-c9bfc401701e" configVersion="909fc52000587b42beda842c0a3c1c1a00000000"/>
 		<Metadata name="Subsystem.Продажи" id="75cb6c7a-9eec-4f46-9808-e0d5b95e8e12" configVersion="cf7351b25fa40a4eba21b2661086cfba00000000"/>
 		<Metadata name="Subsystem.Склад" id="1384ab25-53a4-40c7-b0ad-d293ae955eec" configVersion="1db0299bdfdbe749a39042ee20acc0d200000000"/>

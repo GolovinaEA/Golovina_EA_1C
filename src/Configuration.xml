@@ -272,6 +272,7 @@
 			<Enum>СтавкиНДС</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыЦен</Enum>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
