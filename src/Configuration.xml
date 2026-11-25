@@ -269,10 +269,16 @@
 			<Catalog>ПричиныСписания</Catalog>
 			<Catalog>КонтактныеЛица</Catalog>
 			<Catalog>СтатьиРасходов</Catalog>
+			<Document>УстановкаЦенНоменклатуры</Document>
+			<Document>ЗаказПоставщику</Document>
+			<Document>ПоступлениеТоваров</Document>
+			<Document>ВозвратТоваровПоставщику</Document>
 			<Enum>СтавкиНДС</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыЦен</Enum>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
+			<AccumulationRegister>ВзаиморасчетыСКонтрагентами</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
