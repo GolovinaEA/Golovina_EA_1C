@@ -254,6 +254,8 @@
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Склад</Subsystem>
 			<Subsystem>ВзаимозачетыИАналитика</Subsystem>
+			<Constant>ОрганизацияУчета</Constant>
+			<Constant>КонтролироватьОстаткиПриОтгрузке</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ВидыНоменклатуры</Catalog>
 			<Catalog>ЕдиницыИзмерения</Catalog>
@@ -273,12 +275,15 @@
 			<Document>ЗаказПоставщику</Document>
 			<Document>ПоступлениеТоваров</Document>
 			<Document>ВозвратТоваровПоставщику</Document>
+			<Document>ЗаказКлиента</Document>
 			<Enum>СтавкиНДС</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыЦен</Enum>
+			<Enum>СтатусыЗаказов</Enum>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>ВзаиморасчетыСКонтрагентами</AccumulationRegister>
+			<AccumulationRegister>РезервыТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
