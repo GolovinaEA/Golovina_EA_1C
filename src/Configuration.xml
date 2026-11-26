@@ -250,10 +250,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>Закупки</Subsystem>
 			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Закупки</Subsystem>
 			<Subsystem>Склад</Subsystem>
 			<Subsystem>ВзаимозачетыИАналитика</Subsystem>
+			<CommonModule>УправлениеЗапасамиСервер</CommonModule>
 			<Constant>ОрганизацияУчета</Constant>
 			<Constant>КонтролироватьОстаткиПриОтгрузке</Constant>
 			<Catalog>Номенклатура</Catalog>
