@@ -278,6 +278,7 @@
 			<Document>ВозвратТоваровПоставщику</Document>
 			<Document>ЗаказКлиента</Document>
 			<Document>РеализацияТоваровУслуг</Document>
+			<Document>ВозвратТоваровОтКлиента</Document>
 			<Enum>СтавкиНДС</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыЦен</Enum>
