@@ -17,6 +17,12 @@
 			<Metadata name="AccumulationRegister.РезервыТоваров.Dimension.ЗаказКлиента" id="7b7a4839-5252-4a83-9bcc-56e89c826d85"/>
 			<Metadata name="AccumulationRegister.РезервыТоваров.Dimension.Склад" id="b26b9924-40bb-469d-8aa4-27c137ad2e7c"/>
 		</Metadata>
+		<Metadata name="BusinessProcess.ОбработкаЗаказаВнешнегоПокупателя" id="a4507cbf-4587-40e1-a843-defa51c8e67f" configVersion="4a87e371546cf04592dbf1ec36c9e93000000000">
+			<Metadata name="BusinessProcess.ОбработкаЗаказаВнешнегоПокупателя.Attribute.Клиент" id="53b8fedc-bee0-4c63-8eb0-50615e11a29f"/>
+			<Metadata name="BusinessProcess.ОбработкаЗаказаВнешнегоПокупателя.Attribute.ЗаказКлиента" id="96531788-c45c-407e-ab94-75d3593614fc"/>
+		</Metadata>
+		<Metadata name="BusinessProcess.ОбработкаЗаказаВнешнегоПокупателя.Flowchart" id="a4507cbf-4587-40e1-a843-defa51c8e67f.7" configVersion="f57a059584ddac4cbc1bd3f267743a5600000000"/>
+		<Metadata name="BusinessProcess.ОбработкаЗаказаВнешнегоПокупателя.ObjectModule" id="a4507cbf-4587-40e1-a843-defa51c8e67f.6" configVersion="c9ab5714427e3f42ac12a10f9f1419a800000000"/>
 		<Metadata name="Catalog.БанковскиеСчета" id="0d260492-1f7a-45c8-b248-0b3dcc5b4873" configVersion="d98447dc003796478b7adbd3e1cc9adf00000000"/>
 		<Metadata name="Catalog.ВидыНоменклатуры" id="39e14eff-ec5a-4214-9662-aa62c277d002" configVersion="8641b7c7d804954094440f873cdc78ba00000000"/>
 		<Metadata name="Catalog.Договоры" id="8c3c48ac-c257-4a06-b9a4-b182204c106e" configVersion="d5b5adec40e6694c975bfae6e34a294b00000000"/>
@@ -34,7 +40,7 @@
 		<Metadata name="Catalog.СтатьиРасходов" id="260ae481-932e-4a7b-868a-b2d7c7b1b78a" configVersion="947272386e718342b4d72adfa8f2c28000000000"/>
 		<Metadata name="CommonModule.УправлениеЗапасамиСервер" id="c1292013-bb3e-46ea-ac7e-f6cb5d02e5d9" configVersion="f3a4ba47db92b44680e0623ac018467500000000"/>
 		<Metadata name="CommonModule.УправлениеЗапасамиСервер.Module" id="c1292013-bb3e-46ea-ac7e-f6cb5d02e5d9.0" configVersion="92da1a240df13a4a9121cdf6ccca16d300000000"/>
-		<Metadata name="Configuration.ГоловинаЕА_70194059" id="aa19d1a1-1061-496a-8430-0939cc14b663" configVersion="546d7df7e57dd8438094156c0ee67ad300000000"/>
+		<Metadata name="Configuration.ГоловинаЕА_70194059" id="aa19d1a1-1061-496a-8430-0939cc14b663" configVersion="eeb693be77b9c44da2cce7816554e41600000000"/>
 		<Metadata name="Configuration.ГоловинаЕА_70194059.CommandInterface" id="88d30524-f7f1-46ab-9645-0f33fe769dbc.a" configVersion="f4e4a0658b0d9c44a89b28d4cc2806b900000000"/>
 		<Metadata name="Constant.КонтролироватьОстаткиПриОтгрузке" id="c2245024-c97e-4445-b08a-7b6e77edd273" configVersion="8c8126856bf4b04d9f8412a455ada7b200000000"/>
 		<Metadata name="Constant.ОрганизацияУчета" id="11c72f3c-c1ee-43de-856b-fca53761044a" configVersion="156a50d83b030e47b97714fa65eeecbe00000000"/>
@@ -162,7 +168,10 @@
 		<Metadata name="Language.Русский" id="1846f543-a329-4c12-ab6a-f1e5a22c44e4" configVersion="32b006dc9588f74b8dd4fbb60077373b00000000"/>
 		<Metadata name="Subsystem.ВзаимозачетыИАналитика" id="9ecc840a-d632-4c8f-8b9f-94e0db89d97e" configVersion="43ad24582197814281e582d6969ab67200000000"/>
 		<Metadata name="Subsystem.Закупки" id="0b6547c1-0a6a-4c50-ab56-c9bfc401701e" configVersion="276ecd78a075a44c8a57c8f9b1dea6a400000000"/>
-		<Metadata name="Subsystem.Продажи" id="75cb6c7a-9eec-4f46-9808-e0d5b95e8e12" configVersion="a668b47ab8f8ee4eb2bb61ad0323904600000000"/>
+		<Metadata name="Subsystem.Продажи" id="75cb6c7a-9eec-4f46-9808-e0d5b95e8e12" configVersion="4ecf776086f0f846af224985bb949a8a00000000"/>
 		<Metadata name="Subsystem.Склад" id="1384ab25-53a4-40c7-b0ad-d293ae955eec" configVersion="24d8a52b530aef45ad5e5e4ac632f8fd00000000"/>
+		<Metadata name="Task.ЗадачиСотрудников" id="17c2ea0a-669f-48ed-8e02-2ba95edea15d" configVersion="410b8117381a6d498bd3b6386c0ec38c00000000">
+			<Metadata name="Task.ЗадачиСотрудников.AddressingAttribute.Исполнитель" id="702ee7e8-89d5-458c-981e-a3515ad2ed76"/>
+		</Metadata>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -20,6 +20,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаказКлиента</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияТоваровУслуг</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ВозвратТоваровОтКлиента</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Task.ЗадачиСотрудников</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.ОбработкаЗаказаВнешнегоПокупателя</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -287,6 +287,8 @@
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<AccumulationRegister>ВзаиморасчетыСКонтрагентами</AccumulationRegister>
 			<AccumulationRegister>РезервыТоваров</AccumulationRegister>
+			<BusinessProcess>ОбработкаЗаказаВнешнегоПокупателя</BusinessProcess>
+			<Task>ЗадачиСотрудников</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
